@@ -11,7 +11,9 @@
 /*.xlsx
 /*.csv
 
+
 venv/
 notebooks/*.h5ad
+.ipynb_checkpoints/
 .idea
 
